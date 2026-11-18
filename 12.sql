@@ -14,3 +14,7 @@ alter table jogadores
 add column nr_ranking int;
 
 desc jogadores;
+
+
+
+insert into jogadores values (1, 'rafael', 2023, 1);
